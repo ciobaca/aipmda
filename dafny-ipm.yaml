@@ -1,0 +1,5 @@
+programs:
+  dafnyipmdllnice: "/Users/stefan/software/dafny/Dafny.dll"
+  boogiedll: "/Users/stefan/projects/dafny/boogie/Source/BoogieDriver/bin/Release/net6.0/BoogieDriver.dll"
+  dafnyipmdll: "/Users/stefan/projects/0000-AIPMDA/dafny-ipm/Binaries/Dafny.dll"
+
